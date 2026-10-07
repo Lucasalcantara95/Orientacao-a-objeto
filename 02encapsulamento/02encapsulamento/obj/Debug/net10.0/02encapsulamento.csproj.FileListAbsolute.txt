@@ -1,0 +1,15 @@
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\02encapsulamento\02encapsulamento\bin\Debug\net10.0\02encapsulamento.exe
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\02encapsulamento\02encapsulamento\bin\Debug\net10.0\02encapsulamento.deps.json
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\02encapsulamento\02encapsulamento\bin\Debug\net10.0\02encapsulamento.runtimeconfig.json
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\02encapsulamento\02encapsulamento\bin\Debug\net10.0\02encapsulamento.dll
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\02encapsulamento\02encapsulamento\bin\Debug\net10.0\02encapsulamento.pdb
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\02encapsulamento\02encapsulamento\obj\Debug\net10.0\02encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\02encapsulamento\02encapsulamento\obj\Debug\net10.0\02encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\02encapsulamento\02encapsulamento\obj\Debug\net10.0\02encapsulamento.AssemblyInfo.cs
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\02encapsulamento\02encapsulamento\obj\Debug\net10.0\02encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\02encapsulamento\02encapsulamento\obj\Debug\net10.0\02encapsulamento.sourcelink.json
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\02encapsulamento\02encapsulamento\obj\Debug\net10.0\02encapsulamento.dll
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\02encapsulamento\02encapsulamento\obj\Debug\net10.0\refint\02encapsulamento.dll
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\02encapsulamento\02encapsulamento\obj\Debug\net10.0\02encapsulamento.pdb
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\02encapsulamento\02encapsulamento\obj\Debug\net10.0\02encapsulamento.genruntimeconfig.cache
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\02encapsulamento\02encapsulamento\obj\Debug\net10.0\ref\02encapsulamento.dll
