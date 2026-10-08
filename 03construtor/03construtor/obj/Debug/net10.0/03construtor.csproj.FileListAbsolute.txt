@@ -1,0 +1,15 @@
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\03construtor\03construtor\bin\Debug\net10.0\03construtor.exe
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\03construtor\03construtor\bin\Debug\net10.0\03construtor.deps.json
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\03construtor\03construtor\bin\Debug\net10.0\03construtor.runtimeconfig.json
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\03construtor\03construtor\bin\Debug\net10.0\03construtor.dll
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\03construtor\03construtor\bin\Debug\net10.0\03construtor.pdb
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\03construtor\03construtor\obj\Debug\net10.0\03construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\03construtor\03construtor\obj\Debug\net10.0\03construtor.AssemblyInfoInputs.cache
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\03construtor\03construtor\obj\Debug\net10.0\03construtor.AssemblyInfo.cs
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\03construtor\03construtor\obj\Debug\net10.0\03construtor.csproj.CoreCompileInputs.cache
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\03construtor\03construtor\obj\Debug\net10.0\03construtor.sourcelink.json
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\03construtor\03construtor\obj\Debug\net10.0\03construtor.dll
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\03construtor\03construtor\obj\Debug\net10.0\refint\03construtor.dll
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\03construtor\03construtor\obj\Debug\net10.0\03construtor.pdb
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\03construtor\03construtor\obj\Debug\net10.0\03construtor.genruntimeconfig.cache
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\03construtor\03construtor\obj\Debug\net10.0\ref\03construtor.dll
