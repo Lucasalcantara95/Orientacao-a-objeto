@@ -1,0 +1,15 @@
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\04AtributosEMetodosEstaticos\04estaticos\obj\Debug\net10.0\04estaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\04AtributosEMetodosEstaticos\04estaticos\obj\Debug\net10.0\04estaticos.AssemblyInfoInputs.cache
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\04AtributosEMetodosEstaticos\04estaticos\obj\Debug\net10.0\04estaticos.AssemblyInfo.cs
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\04AtributosEMetodosEstaticos\04estaticos\obj\Debug\net10.0\04estaticos.csproj.CoreCompileInputs.cache
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\04AtributosEMetodosEstaticos\04estaticos\obj\Debug\net10.0\04estaticos.sourcelink.json
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\04AtributosEMetodosEstaticos\04estaticos\bin\Debug\net10.0\04estaticos.exe
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\04AtributosEMetodosEstaticos\04estaticos\bin\Debug\net10.0\04estaticos.deps.json
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\04AtributosEMetodosEstaticos\04estaticos\bin\Debug\net10.0\04estaticos.runtimeconfig.json
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\04AtributosEMetodosEstaticos\04estaticos\bin\Debug\net10.0\04estaticos.dll
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\04AtributosEMetodosEstaticos\04estaticos\bin\Debug\net10.0\04estaticos.pdb
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\04AtributosEMetodosEstaticos\04estaticos\obj\Debug\net10.0\04estaticos.dll
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\04AtributosEMetodosEstaticos\04estaticos\obj\Debug\net10.0\refint\04estaticos.dll
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\04AtributosEMetodosEstaticos\04estaticos\obj\Debug\net10.0\04estaticos.pdb
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\04AtributosEMetodosEstaticos\04estaticos\obj\Debug\net10.0\04estaticos.genruntimeconfig.cache
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\04AtributosEMetodosEstaticos\04estaticos\obj\Debug\net10.0\ref\04estaticos.dll
