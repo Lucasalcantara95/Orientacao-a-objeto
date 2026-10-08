@@ -10,3 +10,8 @@ Calculadora.Soma(10, 20);
 Console.WriteLine($"Valor do atributo estático é: {Calculadora2.numero}");
 
 Calculadora2.Subtracao(20, 10);
+
+
+Calculadora3.Multiplicacao(10, 20);
+
+Console.WriteLine($"Valor do atributo estático é: {Calculadora3.numero}");
