@@ -1,0 +1,15 @@
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\05heranca\05heranca\bin\Debug\net10.0\05heranca.exe
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\05heranca\05heranca\bin\Debug\net10.0\05heranca.deps.json
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\05heranca\05heranca\bin\Debug\net10.0\05heranca.runtimeconfig.json
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\05heranca\05heranca\bin\Debug\net10.0\05heranca.dll
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\05heranca\05heranca\bin\Debug\net10.0\05heranca.pdb
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\05heranca\05heranca\obj\Debug\net10.0\05heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\05heranca\05heranca\obj\Debug\net10.0\05heranca.AssemblyInfoInputs.cache
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\05heranca\05heranca\obj\Debug\net10.0\05heranca.AssemblyInfo.cs
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\05heranca\05heranca\obj\Debug\net10.0\05heranca.csproj.CoreCompileInputs.cache
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\05heranca\05heranca\obj\Debug\net10.0\05heranca.sourcelink.json
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\05heranca\05heranca\obj\Debug\net10.0\05heranca.dll
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\05heranca\05heranca\obj\Debug\net10.0\refint\05heranca.dll
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\05heranca\05heranca\obj\Debug\net10.0\05heranca.pdb
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\05heranca\05heranca\obj\Debug\net10.0\05heranca.genruntimeconfig.cache
+C:\Users\Cyber Luck\Projetos .NET\Orientação a objetos\05heranca\05heranca\obj\Debug\net10.0\ref\05heranca.dll

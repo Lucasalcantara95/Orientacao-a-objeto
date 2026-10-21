@@ -1,0 +1,15 @@
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\07polimorfismo\polimorfismo\bin\Debug\net10.0\polimorfismo.exe
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\07polimorfismo\polimorfismo\bin\Debug\net10.0\polimorfismo.deps.json
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\07polimorfismo\polimorfismo\bin\Debug\net10.0\polimorfismo.runtimeconfig.json
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\07polimorfismo\polimorfismo\bin\Debug\net10.0\polimorfismo.dll
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\07polimorfismo\polimorfismo\bin\Debug\net10.0\polimorfismo.pdb
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\07polimorfismo\polimorfismo\obj\Debug\net10.0\polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\07polimorfismo\polimorfismo\obj\Debug\net10.0\polimorfismo.AssemblyInfoInputs.cache
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\07polimorfismo\polimorfismo\obj\Debug\net10.0\polimorfismo.AssemblyInfo.cs
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\07polimorfismo\polimorfismo\obj\Debug\net10.0\polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\07polimorfismo\polimorfismo\obj\Debug\net10.0\polimorfismo.sourcelink.json
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\07polimorfismo\polimorfismo\obj\Debug\net10.0\polimorfismo.dll
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\07polimorfismo\polimorfismo\obj\Debug\net10.0\refint\polimorfismo.dll
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\07polimorfismo\polimorfismo\obj\Debug\net10.0\polimorfismo.pdb
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\07polimorfismo\polimorfismo\obj\Debug\net10.0\polimorfismo.genruntimeconfig.cache
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\07polimorfismo\polimorfismo\obj\Debug\net10.0\ref\polimorfismo.dll

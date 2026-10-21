@@ -1,0 +1,15 @@
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\08abstração\08abstracao\bin\Debug\net10.0\08abstracao.exe
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\08abstração\08abstracao\bin\Debug\net10.0\08abstracao.deps.json
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\08abstração\08abstracao\bin\Debug\net10.0\08abstracao.runtimeconfig.json
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\08abstração\08abstracao\bin\Debug\net10.0\08abstracao.dll
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\08abstração\08abstracao\bin\Debug\net10.0\08abstracao.pdb
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\08abstração\08abstracao\obj\Debug\net10.0\08abstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\08abstração\08abstracao\obj\Debug\net10.0\08abstracao.AssemblyInfoInputs.cache
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\08abstração\08abstracao\obj\Debug\net10.0\08abstracao.AssemblyInfo.cs
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\08abstração\08abstracao\obj\Debug\net10.0\08abstracao.csproj.CoreCompileInputs.cache
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\08abstração\08abstracao\obj\Debug\net10.0\08abstracao.sourcelink.json
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\08abstração\08abstracao\obj\Debug\net10.0\08abstracao.dll
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\08abstração\08abstracao\obj\Debug\net10.0\refint\08abstracao.dll
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\08abstração\08abstracao\obj\Debug\net10.0\08abstracao.pdb
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\08abstração\08abstracao\obj\Debug\net10.0\08abstracao.genruntimeconfig.cache
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\08abstração\08abstracao\obj\Debug\net10.0\ref\08abstracao.dll
