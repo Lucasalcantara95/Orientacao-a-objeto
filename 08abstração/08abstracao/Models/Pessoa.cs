@@ -11,4 +11,10 @@ public class Pessoa : Acoes
     {
         Console.WriteLine("Falando");
     }
+    
+    public override void Comer()
+    {
+        Console.WriteLine("Comendo");
+    }
 }
+    
