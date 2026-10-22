@@ -1,0 +1,15 @@
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\09interface\bin\Debug\net10.0\08interface.exe
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\09interface\bin\Debug\net10.0\08interface.deps.json
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\09interface\bin\Debug\net10.0\08interface.runtimeconfig.json
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\09interface\bin\Debug\net10.0\08interface.dll
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\09interface\bin\Debug\net10.0\08interface.pdb
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\09interface\obj\Debug\net10.0\08interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\09interface\obj\Debug\net10.0\08interface.AssemblyInfoInputs.cache
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\09interface\obj\Debug\net10.0\08interface.AssemblyInfo.cs
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\09interface\obj\Debug\net10.0\08interface.csproj.CoreCompileInputs.cache
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\09interface\obj\Debug\net10.0\08interface.sourcelink.json
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\09interface\obj\Debug\net10.0\08interface.dll
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\09interface\obj\Debug\net10.0\refint\08interface.dll
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\09interface\obj\Debug\net10.0\08interface.pdb
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\09interface\obj\Debug\net10.0\08interface.genruntimeconfig.cache
+C:\Users\lucas.alcantara\DEV\Orientacao-a-objeto\09interface\obj\Debug\net10.0\ref\08interface.dll
